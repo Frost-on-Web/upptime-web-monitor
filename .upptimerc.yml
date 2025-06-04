@@ -13,6 +13,8 @@ sites:
     method: GET
   - name: Parc Canadien [Client]
     url: https://client.parccanadien.com
+  - name: Test Broken Link
+    url: https://test.brokenlink.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

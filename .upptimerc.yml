@@ -3,7 +3,7 @@ repo: upptime-web-monitor # The name of this repository
 
 sites:
   - name: Wikipedia
-    url: https://en.wikipedia.org
+    url: https://fr.wikipedia.org
   - name: Parc Canadien
     url: https://www.parccanadien.com
 

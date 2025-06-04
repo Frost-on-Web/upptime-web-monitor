@@ -2,10 +2,16 @@ owner: Frost-on-Web # Your GitHub organization or username, where this repositor
 repo: upptime-web-monitor # The name of this repository
 
 sites:
-  - name: Wikipedia
-    url: https://fr.wikipedia.org
   - name: Parc Canadien
     url: https://www.parccanadien.com
+  - name: Parc Canadien [Strapi]
+    url: https://strapi.parccanadien.com
+  - name: Parc Canadien [Shop]
+    url: https://shop.parccanadien.com
+  - name: Parc Canadien [Admin]
+    url: https://admin.parccanadien.com
+  - name: Parc Canadien [Client]
+    url: https://client.parccanadien.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

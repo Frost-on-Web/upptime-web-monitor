@@ -8,6 +8,8 @@ sites:
     url: https://strapi.parccanadien.com
   - name: Parc Canadien [Shop]
     url: https://shop.parccanadien.com
+  - name: Parc Canadien [Admin]
+    url:https://admin.parccanadien.com/api/echo
   - name: Parc Canadien [Client]
     url: https://client.parccanadien.com
 

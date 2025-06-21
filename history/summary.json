@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1028,
-    "timeDay": 784,
-    "timeWeek": 914,
-    "timeMonth": 1028,
-    "timeYear": 1028,
+    "time": 1027,
+    "timeDay": 993,
+    "timeWeek": 938,
+    "timeMonth": 1027,
+    "timeYear": 1027,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 540,
-    "timeDay": 424,
+    "time": 536,
+    "timeDay": 451,
     "timeWeek": 489,
-    "timeMonth": 540,
-    "timeYear": 540,
+    "timeMonth": 536,
+    "timeYear": 536,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 652,
-    "timeDay": 588,
-    "timeWeek": 615,
-    "timeMonth": 652,
-    "timeYear": 652,
+    "time": 651,
+    "timeDay": 620,
+    "timeWeek": 624,
+    "timeMonth": 651,
+    "timeYear": 651,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
-    "time": 515,
-    "timeDay": 413,
-    "timeWeek": 468,
-    "timeMonth": 515,
-    "timeYear": 515,
+    "time": 512,
+    "timeDay": 456,
+    "timeWeek": 473,
+    "timeMonth": 512,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2025-06-04": 5
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 651,
-    "timeDay": 536,
-    "timeWeek": 595,
-    "timeMonth": 651,
-    "timeYear": 651,
+    "time": 648,
+    "timeDay": 595,
+    "timeWeek": 598,
+    "timeMonth": 648,
+    "timeYear": 648,
     "dailyMinutesDown": {}
   },
   {
@@ -108,7 +108,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-20": 3,
+      "2025-06-21": 3,
+      "2025-06-20": 1440,
       "2025-06-19": 1440,
       "2025-06-18": 1440,
       "2025-06-17": 1440,

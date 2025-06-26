@@ -1,7 +1,7 @@
 url: https://admin.parccanadien.com/api/echo
-status: down
-code: 502
-responseTime: 452
-lastUpdated: 2025-06-26T07:52:28.728Z
+status: up
+code: 200
+responseTime: 446
+lastUpdated: 2025-06-26T08:01:44.893Z
 startTime: 2025-06-04T00:56:32.755Z
 generator: Upptime <https://github.com/upptime/upptime>

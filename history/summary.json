@@ -79,18 +79,20 @@
     "url": "https://client.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/client.parccanadien.com.ico",
     "slug": "parc-canadien-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 637,
-    "timeDay": 582,
-    "timeWeek": 595,
-    "timeMonth": 629,
-    "timeYear": 637,
-    "dailyMinutesDown": {}
+    "time": 631,
+    "timeDay": 498,
+    "timeWeek": 572,
+    "timeMonth": 622,
+    "timeYear": 631,
+    "dailyMinutesDown": {
+      "2025-07-10": 0
+    }
   },
   {
     "name": "Test Broken Link",
@@ -109,7 +111,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-07-10": 3,
+      "2025-07-10": 660,
       "2025-07-09": 1440,
       "2025-07-08": 1440,
       "2025-07-07": 1440,

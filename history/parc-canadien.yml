@@ -1,7 +1,7 @@
 url: https://www.parccanadien.com
-status: up
-code: 200
-responseTime: 1485
-lastUpdated: 2025-08-10T23:07:22.174Z
+status: down
+code: 502
+responseTime: 487
+lastUpdated: 2025-08-11T10:18:14.581Z
 startTime: 2025-06-04T00:08:11.465Z
 generator: Upptime <https://github.com/upptime/upptime>

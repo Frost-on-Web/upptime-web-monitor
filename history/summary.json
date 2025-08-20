@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 997,
-    "timeDay": 1227,
-    "timeWeek": 1033,
-    "timeMonth": 992,
-    "timeYear": 997,
+    "time": 1000,
+    "timeDay": 1250,
+    "timeWeek": 1005,
+    "timeMonth": 1005,
+    "timeYear": 1000,
     "dailyMinutesDown": {
       "2025-08-11": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 520,
-    "timeDay": 1111,
-    "timeWeek": 600,
-    "timeMonth": 518,
-    "timeYear": 520,
+    "time": 522,
+    "timeDay": 677,
+    "timeWeek": 602,
+    "timeMonth": 524,
+    "timeYear": 522,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 634,
-    "timeDay": 974,
-    "timeWeek": 656,
-    "timeMonth": 624,
-    "timeYear": 634,
+    "time": 636,
+    "timeDay": 816,
+    "timeWeek": 674,
+    "timeMonth": 632,
+    "timeYear": 636,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 497,
-    "timeDay": 754,
+    "time": 499,
+    "timeDay": 632,
     "timeWeek": 527,
-    "timeMonth": 496,
-    "timeYear": 497,
+    "timeMonth": 503,
+    "timeYear": 499,
     "dailyMinutesDown": {
       "2025-07-01": 94,
       "2025-06-04": 5
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 623,
-    "timeDay": 888,
-    "timeWeek": 670,
-    "timeMonth": 625,
-    "timeYear": 623,
+    "time": 626,
+    "timeDay": 875,
+    "timeWeek": 679,
+    "timeMonth": 636,
+    "timeYear": 626,
     "dailyMinutesDown": {}
   },
   {
@@ -111,7 +111,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-08-19": 3,
+      "2025-08-20": 3,
+      "2025-08-19": 1440,
       "2025-08-18": 1440,
       "2025-08-17": 1440,
       "2025-08-16": 1440,

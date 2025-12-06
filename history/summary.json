@@ -25,36 +25,40 @@
     "url": "https://strapi.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.parccanadien.com.ico",
     "slug": "parc-canadien-strapi",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 517,
-    "timeDay": 456,
-    "timeWeek": 506,
-    "timeMonth": 529,
+    "timeDay": 459,
+    "timeWeek": 501,
+    "timeMonth": 527,
     "timeYear": 517,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-06": 10
+    }
   },
   {
     "name": "Parc Canadien [Shop]",
     "url": "https://shop.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.parccanadien.com.ico",
     "slug": "parc-canadien-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 639,
-    "timeDay": 557,
-    "timeWeek": 654,
-    "timeMonth": 652,
-    "timeYear": 639,
-    "dailyMinutesDown": {}
+    "time": 638,
+    "timeDay": 515,
+    "timeWeek": 631,
+    "timeMonth": 647,
+    "timeYear": 638,
+    "dailyMinutesDown": {
+      "2025-12-06": 0
+    }
   },
   {
     "name": "Parc Canadien [Admin]",
@@ -113,7 +117,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-12-06": 228,
+      "2025-12-06": 239,
       "2025-12-05": 1440,
       "2025-12-04": 1440,
       "2025-12-03": 1440,

@@ -25,18 +25,20 @@
     "url": "https://strapi.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.parccanadien.com.ico",
     "slug": "parc-canadien-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 511,
-    "timeDay": 686,
-    "timeWeek": 531,
-    "timeMonth": 496,
+    "timeDay": 606,
+    "timeWeek": 530,
+    "timeMonth": 497,
     "timeYear": 511,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-01-25": 0
+    }
   },
   {
     "name": "Parc Canadien [Shop]",

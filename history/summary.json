@@ -4,10 +4,10 @@
     "url": "https://www.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.parccanadien.com.ico",
     "slug": "parc-canadien",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 992,
@@ -16,6 +16,7 @@
     "timeMonth": 983,
     "timeYear": 992,
     "dailyMinutesDown": {
+      "2026-02-14": 2,
       "2025-11-25": 16,
       "2025-08-11": 16
     }
@@ -25,10 +26,10 @@
     "url": "https://strapi.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.parccanadien.com.ico",
     "slug": "parc-canadien-strapi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "98.51%",
     "uptimeYear": "99.82%",
     "time": 517,
@@ -37,6 +38,7 @@
     "timeMonth": 549,
     "timeYear": 517,
     "dailyMinutesDown": {
+      "2026-02-14": 2,
       "2026-02-06": 43,
       "2026-01-25": 609
     }
@@ -46,10 +48,10 @@
     "url": "https://shop.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/shop.parccanadien.com.ico",
     "slug": "parc-canadien-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 631,
@@ -58,6 +60,7 @@
     "timeMonth": 621,
     "timeYear": 631,
     "dailyMinutesDown": {
+      "2026-02-14": 1,
       "2026-02-06": 43
     }
   },
@@ -66,10 +69,10 @@
     "url": "https://admin.parccanadien.com/api/echo",
     "icon": "https://icons.duckduckgo.com/ip3/admin.parccanadien.com.ico",
     "slug": "parc-canadien-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 494,
@@ -78,6 +81,7 @@
     "timeMonth": 483,
     "timeYear": 494,
     "dailyMinutesDown": {
+      "2026-02-14": 1,
       "2025-10-17": 29,
       "2025-07-01": 94,
       "2025-06-04": 5
@@ -88,9 +92,9 @@
     "url": "https://client.parccanadien.com",
     "icon": "https://icons.duckduckgo.com/ip3/client.parccanadien.com.ico",
     "slug": "parc-canadien-client",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -99,6 +103,8 @@
     "timeWeek": 619,
     "timeMonth": 626,
     "timeYear": 627,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-14": 0
+    }
   }
 ]

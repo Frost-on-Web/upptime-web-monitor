@@ -1,7 +1,7 @@
 url: https://strapi.parccanadien.com
-status: down
-code: 502
-responseTime: 470
-lastUpdated: 2026-02-16T06:10:30.314Z
+status: up
+code: 200
+responseTime: 860
+lastUpdated: 2026-02-16T06:40:18.402Z
 startTime: 2025-06-04T00:23:37.902Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -13,6 +13,12 @@ sites:
     method: GET
   - name: Parc Canadien [Client]
     url: https://client.parccanadien.com
+  - name: Party Backend
+    url: https://party-backend.r-mangin.info/health
+    method: GET
+  - name: Party Frontend
+    url: https://free-from-disaster.vercel.app
+  
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

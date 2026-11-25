@@ -14,7 +14,7 @@
     "timeDay": 1149,
     "timeWeek": 981,
     "timeMonth": 970,
-    "timeYear": 994,
+    "timeYear": 996,
     "dailyMinutesDown": {
       "2026-03-03": 21,
       "2026-03-09": 670,
@@ -28,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/strapi.parccanadien.com.ico",
     "slug": "parc-canadien-strapi",
     "status": "up",
-    "uptime": "99.64%",
+    "uptime": "99.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -129,35 +129,39 @@
     "url": "https://party-backend.r-mangin.info/health",
     "icon": "https://icons.duckduckgo.com/ip3/party-backend.r-mangin.info.ico",
     "slug": "party-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 534,
-    "timeDay": 611,
-    "timeWeek": 539,
-    "timeMonth": 506,
-    "timeYear": 534,
-    "dailyMinutesDown": {}
+    "time": 533,
+    "timeDay": 553,
+    "timeWeek": 534,
+    "timeMonth": 505,
+    "timeYear": 533,
+    "dailyMinutesDown": {
+      "2026-11-25": 1
+    }
   },
   {
     "name": "Party Frontend",
     "url": "https://free-from-disaster.vercel.app",
     "icon": "https://icons.duckduckgo.com/ip3/free-from-disaster.vercel.app.ico",
     "slug": "party-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 185,
-    "timeDay": 49,
-    "timeWeek": 99,
-    "timeMonth": 175,
-    "timeYear": 185,
-    "dailyMinutesDown": {}
+    "time": 184,
+    "timeDay": 84,
+    "timeWeek": 102,
+    "timeMonth": 173,
+    "timeYear": 184,
+    "dailyMinutesDown": {
+      "2026-11-25": 0
+    }
   }
 ]
